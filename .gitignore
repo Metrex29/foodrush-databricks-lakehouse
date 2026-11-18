@@ -1,0 +1,23 @@
+# Entorno virtual y secretos
+.env
+*.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Databricks
+.databricks/
+.bundle/
+
+# IDEs y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ficheros temporales de Office
+~$*

@@ -1,0 +1,21 @@
+restaurante_id,nombre,tipo_cocina,zona,valoracion
+R001,Trattoria Bella,Japonesa,Sur,3.9
+R002,Sushi Koi,Mexicana,Norte,4.0
+R003,El Taco Loco,Hamburguesas,Centro,4.7
+R004,Burger Rush,India,Centro,4.3
+R005,Curry House,Mediterránea,Sur,4.3
+R006,Mar y Huerta,China,Sur,3.4
+R007,Dragón Rojo,Vegana,Este,3.9
+R008,Green Bowl,Pizzería,Centro,4.0
+R009,Pizza Nostra,Tapas,Oeste,3.5
+R010,La Tasca,Italiana,Norte,4.5
+R011,Ramen Ya,Japonesa,Centro,4.8
+R012,Don Burrito,Mexicana,Oeste,4.1
+R013,Smash Bros Burger,Hamburguesas,Oeste,4.0
+R014,Tandoori Star,India,Oeste,3.4
+R015,Olivo,Mediterránea,Oeste,4.5
+R016,Wok Express,China,Universidad,3.8
+R017,Veggie Lab,Vegana,Centro,3.3
+R018,Forno Napoli,Pizzería,Norte,4.3
+R019,Bodega 33,Tapas,Sur,4.2
+R020,Poke Point,Italiana,Norte,4.4
